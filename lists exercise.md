@@ -1,21 +1,7 @@
-# Place an order on our online shop
+# Suggestions for the next GitHub demo
 
-To place an order on our online shop, follow these steps:
+It would be good to build off the basic understanding folks now have of working in GitHub. Some possible future demos could include using VS Code and GitHub Desktop, as well as any extensions for these that tech writers would find useful. I think it'd also be good to include an overview of DCOs. 
 
-1. Find the products you want to purchase
+Also, personally, I'd like to learn how to use git commands to commit and/or create pull requests as a way to kick my knowledge up a notch or two.
 
-2. Add them to your basket
-
-3. Go to the checkout
-
-4. Select your payment type. We support the following payment types:
-
-- Bank transfer
-- Credit or debit card
-- Bitcoin
- 
-  **NOTE:** We do not support American Express
-
-5. Enter the following information: your name, delivery address, post code, phone number and email address.
-
-6. Click **send** to complete your order. If you chose to pay by card, the card payment window displays.
+Nice presentation today, thanks much for sharing!
