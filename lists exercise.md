@@ -12,3 +12,5 @@ NOTE: We do not support American Express
 - Bitcoin
 5.Enter the following information: your name, delivery address, post code, phone number and email address.
 6.Click **send** to complete your order. If you chose to pay by card, the card payment window displays.
+# Sandy test
+Once upon a midnight dreary, as I wandered weak and weary
