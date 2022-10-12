@@ -2,10 +2,10 @@
 
 To place an order on our online shop, follow these steps:
 
-1.Find the products you want to purchase
-2.Add them to your basket
-3.Go to the checkout
-4.Select your payment type. We support the following payment types:
+1. Find the products you want to purchase2. 
+3. Add them to your basket
+4. Go to the checkout
+5. Select your payment type. We support the following payment types:
 - Bank transfer
 - Credit or debit card
 - Another type
