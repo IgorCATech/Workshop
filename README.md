@@ -1,4 +1,4 @@
-# GitHub, VS Code, and Markdown Workshoppe
+# GitHub, VS Code, and Markdown Workshop
 
 The workshop is intended for learning how to work with specific features of the Visual Studio Code IDE, GitHub Desktop, and Markdown. You will learn the following skills:
 
