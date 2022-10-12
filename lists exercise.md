@@ -1,4 +1,4 @@
-# Place an order on our online shop
+# Place an order on John's online shop
 
 To place an order on our online shop, follow these steps:
 
