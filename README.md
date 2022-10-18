@@ -32,3 +32,7 @@ The workshop is divided into two parts and contains the following topics:
     - GitHub Repositories: Clone
 2. Part 2
     - Markdown Basics
+
+### What you will learn from this workshop
+
+<!-- Fill in this section -->
