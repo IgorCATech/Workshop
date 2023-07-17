@@ -11,3 +11,5 @@ To place an order on our online shop, follow these steps:
     - Bitcoin
 5. Enter the following information: your name, delivery address, post code, phone number and email address.
 6. Click **send** to complete your order. If you chose to pay by card, the card payment window displays.
+
+This is a signed-off commit.
